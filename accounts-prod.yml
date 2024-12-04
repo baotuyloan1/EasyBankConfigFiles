@@ -3,7 +3,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EasyBank accounts related abca APIs"
+  message: "Welcome to EasyBank accounts related abcabzx APIs"
   contactDetails:
     name" : "Bao Nguyen (Key) - Product Owner"
     email: "{cipher}4803c839f684930d033d4dc607fc8bfd1980654d482cd75fc46c09a646da19be226028ffcd53635eb79c0fa2fde365ca"
