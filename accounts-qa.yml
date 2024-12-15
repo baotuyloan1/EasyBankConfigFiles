@@ -3,7 +3,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EasyBank accounts related QA APIs"
+  message: "Welcome to EasyBank accounts related docker APIs"
   contactDetails:
     name" : "Bao Nguyen - QA Lead"
     email: "nguyenducbaokey@gmail.com"
