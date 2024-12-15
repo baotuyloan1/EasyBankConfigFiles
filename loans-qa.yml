@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to EasyBank loans related docker APIs"
+  message: "Welcome to EasyBank loans related QA APIs"
   contactDetails:
     name" : "Bao Nguyen - QA Lead"
     email: "nguyenducbaokey@gmail.com"
