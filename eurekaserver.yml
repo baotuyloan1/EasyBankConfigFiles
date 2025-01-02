@@ -3,6 +3,7 @@ server:
 
 eureka:
   instance:
+    # only one eureka server
     hostname: localhost
   client:
     # Eureka server doesn't fetch the register details of other microservices
